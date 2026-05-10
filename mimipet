@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "title": "Chika Chika Cool — Premium Natural Oral Care for Pets, Horses & Camels | MIMIPET",
+    "description": "Patent-based 100% natural herbal oral spray for companion pets and high-performance animals. Zero doping risk, stress-free application, trusted across the GCC.",
+    "keywords": "natural pet oral care, herbal dental spray, racing camel oral care, equine dental health, doping-free pet care",
+    "ogImage": "/assets/og-image.jpg",
+    "siteName": "Mimipet Korea",
+    "url": "https://chikachikacool.com"
+  },
+
+  "nav": {
+    "logo": "Mimipet Korea",
+    "logoShort": "MK",
+    "links": [
+      { "label": "About",     "href": "#heritage" },
+      { "label": "Why us",    "href": "#why" },
+      { "label": "Products",  "href": "#products" },
+      { "label": "Science",   "href": "#science" },
+      { "label": "FAQ",       "href": "#faq" },
+      { "label": "Contact",   "href": "#contact" }
+    ],
+    "cta": { "label": "B2B inquiry", "href": "#contact" }
+  },
+
+  "hero": {
+    "id": "hero",
+    "headline": "Premium Oral Care, From Companion Pets to Racing Camels.",
+    "headlineAlt": "Patent-Based Natural Oral Care for Every Animal Life.",
+    "subheadline": "Chika Chika Cool is a 100% natural herbal oral spray developed from a patented human gum-treatment formula — now adapted for companion pets, racing horses, and high-value camels. Stress-free to apply. Safe for daily use. Zero doping risk.",
+    "primaryCta":   { "label": "Explore the lineup", "href": "#products" },
+    "secondaryCta": { "label": "B2B & global distribution", "href": "#contact" },
+    "image": {
+      "src": "/assets/hero-split.jpg",
+      "alt": "A companion dog and a racing camel — the dual market for Chika Chika Cool",
+      "spec": "1600x900, split composition: pet on left, racing camel on right"
+    },
+    "trustStrip": [
+      { "icon": "leaf",    "label": "100% natural herbal formula" },
+      { "icon": "shield",  "label": "Patent-based dental science" },
+      { "icon": "trophy",  "label": "Zero doping risk" },
+      { "icon": "globe",   "label": "Trusted across GCC racing programs" }
+    ]
+  },
+
+  "heritage": {
+    "id": "heritage",
+    "eyebrow": "Our story",
+    "headline": "From Human Dental Care to Animal Wellness.",
+    "subheadline": "A formula proven on humans, reformulated for the animals you love and the ones you race.",
+    "body": [
+      "Chika Chika Cool didn't begin as a pet product. Its core formula is built on a patented human gum-treatment recipe — a precise blend of seven medicinal herbs developed to reduce gum inflammation, protect mucosal tissue, and prevent periodontal disease.",
+      "When MIMIPET Co., Ltd. began researching oral health solutions for animals, we recognized that the biology behind gum inflammation is not species-specific. The same active compounds — eugenol from clove, glycyrrhizin from licorice, ligustilide from cnidium — work just as effectively in a dog, a horse, or a racing camel.",
+      "So we adapted the formula. We removed everything an animal shouldn't ingest. We replaced chemical preservatives with grapefruit seed extract. We made it water-soluble so it can be added to a drinking trough as easily as it can be sprayed directly into a bichon's mouth. The result is a product that brings clinical-grade dental science to animals that have, until now, been left out of the oral care conversation."
+    ],
+    "pullQuote": "Since its official launch in May 2023, Chika Chika Cool has maintained a zero-claim record across both companion and performance animal markets.",
+    "image": {
+      "src": "/assets/heritage-extraction.jpg",
+      "alt": "Herbal extraction process",
+      "spec": "1200x800, herbs being prepared or extraction setup, warm tones"
+    }
+  },
+
+  "why": {
+    "id": "why",
+    "eyebrow": "Why Chika Chika Cool",
+    "headline": "What makes Chika Chika Cool different.",
+    "subheadline": "Not a breath spray. Not a marketing claim. A patented therapeutic formula, naturally adapted for animals.",
+    "cards": [
+      {
+        "icon": "patent",
+        "title": "Built on a human-grade patent.",
+        "body": "Most pet sprays mask odor. Chika Chika Cool treats the underlying cause — gum inflammation — using a formula originally patented for human periodontal care. The same active compounds, the same therapeutic intent, formulated for animals."
+      },
+      {
+        "icon": "leaf",
+        "title": "Seven herbs. Nothing else.",
+        "body": "No artificial fragrance. No harsh chemicals. No preservatives. No ethanol or alcohol. Even our preservative — grapefruit seed extract — is botanical. Safe enough to add to drinking water every day, for years."
+      },
+      {
+        "icon": "trophy",
+        "title": "Race-day safe.",
+        "body": "For racing camels, thoroughbred horses, and other high-value performance animals, every input matters. Chika Chika Cool contains no banned substances and no compounds that test positive in pre-race screening — making it the only oral care product engineered for daily use through competition season."
+      },
+      {
+        "icon": "spray",
+        "title": "Built for animals that don't brush.",
+        "body": "Brushing a 600 kg camel or a fearful rescue dog isn't realistic. Chika Chika Cool is water-soluble — it can be added directly to drinking water for daily prevention, or sprayed for direct treatment. No restraint, no struggle, no resistance."
+      }
+    ]
+  },
+
+  "products": {
+    "id": "products",
+    "eyebrow": "The lineup",
+    "headline": "Two products. One philosophy.",
+    "subheadline": "Same patented formula. Different sizes, optimized for different lives.",
+    "items": [
+      {
+        "id": "pet-100ml",
+        "size": "100ml",
+        "audience": "Companion Pets",
+        "tagline": "For dogs, cats, and the small mammals you love.",
+        "body": "Designed for the everyday: daily oral care for dogs and cats of all breeds and ages. The 100ml bottle delivers approximately 2-3 months of daily use for one small or medium pet. Spray directly onto teeth and gums, or add 5-10 sprays per 100ml of drinking water for stress-free prevention.",
+        "bestFor": [
+          "Dogs and cats with bad breath, plaque, or early gum inflammation",
+          "Senior pets that can no longer tolerate brushing",
+          "Rescues and anxious animals that resist handling",
+          "Daily preventive care for healthy pets"
+        ],
+        "benefits": [
+          "Eliminates bad breath at the source",
+          "Reduces plaque and prevents tartar buildup",
+          "Soothes inflamed gums",
+          "Safe to swallow — no rinsing needed"
+        ],
+        "image": {
+          "src": "/assets/product-100ml.jpg",
+          "alt": "Chika Chika Cool 100ml bottle for companion pets",
+          "spec": "Reuse green/red label bottle pair from existing pet catalog"
+        },
+        "buyHref": "https://smartstore.naver.com/mimipet_/products/8703037786",
+        "buyLabel": "Buy on Naver Smart Store"
+      },
+      {
+        "id": "perf-1l",
+        "size": "1L",
+        "audience": "Performance Animals",
+        "tagline": "Engineered for racing camels, thoroughbred horses, and high-value working animals.",
+        "body": "The 1L bottle is built for stables, racing operations, and large-animal facilities. Same patented formula as the 100ml — same seven herbs, same low-temperature extraction process — sized for daily addition to drinking water across multiple animals or for direct oral application during routine handling.",
+        "bestFor": [
+          "Racing and endurance camels",
+          "Thoroughbred and performance horses",
+          "Working equines, draft animals, breeding stock",
+          "Stable and racing-program operators managing 10+ animals"
+        ],
+        "benefits": [
+          "Reduces oral pain from bit and tack use — protects appetite and training focus",
+          "Accelerates healing of bit-related abrasions and gum injuries",
+          "Zero doping risk — safe for race-day use",
+          "Water-soluble — no behavioral resistance, no restraint required"
+        ],
+        "operationalNote": "Currently supplying long-term programs across the GCC region with planned coverage of approximately 50,000 racing camels and horses.",
+        "image": {
+          "src": "/assets/product-1l.jpg",
+          "alt": "Chika Chika Cool 1L bottle for performance animals",
+          "spec": "Reuse 1L bottle lineup from large-animal catalog"
+        },
+        "buyHref": "#contact",
+        "buyLabel": "Request bulk pricing"
+      }
+    ]
+  },
+
+  "ingredients": {
+    "id": "ingredients",
+    "eyebrow": "Powered by nature",
+    "headline": "Seven herbs. Each chosen for a reason.",
+    "subheadline": "Every ingredient earns its place by treating a specific aspect of oral health — from gum pain to tartar to mucosal healing.",
+    "items": [
+      {
+        "name": "Clove",
+        "compound": "Eugenol",
+        "function": "Antiseptic + analgesic",
+        "description": "Inhibits oral pathogens including P. gingivalis. Provides immediate pain relief, protecting appetite and training focus.",
+        "image": { "src": "/assets/herb-clove.jpg", "alt": "Clove" }
+      },
+      {
+        "name": "Licorice",
+        "compound": "Glycyrrhizin",
+        "function": "Anti-inflammatory",
+        "description": "Suppresses inflammatory mediators. Resolves gingivitis at its root, not just its symptoms.",
+        "image": { "src": "/assets/herb-licorice.jpg", "alt": "Licorice root" }
+      },
+      {
+        "name": "Slippery Elm Bark",
+        "compound": "Mucilage",
+        "function": "Mucosal protection",
+        "description": "Forms a protective barrier over inflamed tissue. Speeds healing of bit-related abrasions and gum wounds.",
+        "image": { "src": "/assets/herb-elm.jpg", "alt": "Slippery elm bark" }
+      },
+      {
+        "name": "Cnidium",
+        "compound": "Ligustilide",
+        "function": "Circulation + healing",
+        "description": "Stimulates blood flow to oral tissue. Accelerates recovery and boosts local immunity in the mouth.",
+        "image": { "src": "/assets/herb-cnidium.jpg", "alt": "Cnidium flower" }
+      },
+      {
+        "name": "Peppermint",
+        "compound": "Menthol",
+        "function": "Freshness + palatability",
+        "description": "Eliminates halitosis-causing bacteria. Improves the animal's acceptance of the spray and the treated water.",
+        "image": { "src": "/assets/herb-mint.jpg", "alt": "Peppermint leaves" }
+      },
+      {
+        "name": "Prickly Ash Berry",
+        "compound": "Sanshool",
+        "function": "Anesthetic + circulation",
+        "description": "Mild local anesthesia for post-injury pain. Promotes blood flow for faster wound healing.",
+        "image": { "src": "/assets/herb-prickly-ash.jpg", "alt": "Prickly ash berries" }
+      },
+      {
+        "name": "Grapefruit Seed Extract",
+        "compound": "Bioflavonoids",
+        "function": "Natural preservative + antimicrobial",
+        "description": "Replaces chemical preservatives entirely. Provides broad-spectrum antimicrobial action with zero digestive burden.",
+        "image": { "src": "/assets/herb-grapefruit.jpg", "alt": "Grapefruit seed" }
+      }
+    ],
+    "closingLine": "No purified water. No vitamin fillers. No sweeteners that compromise dosing accuracy. Just seven herbs and the precision to extract them properly."
+  },
+
+  "science": {
+    "id": "science",
+    "eyebrow": "The process",
+    "headline": "12 hours. 70-80°C. No shortcuts.",
+    "subheadline": "The extraction process is what separates a working herbal formula from a marketing one.",
+    "body": [
+      "The active compounds in our seven herbs — eugenol, glycyrrhizin, ligustilide, menthol — are temperature-sensitive. Extract them too hot, and you destroy them. Extract them with ethanol, and you introduce a substance no animal should drink daily.",
+      "Chika Chika Cool is produced through controlled low-temperature decoction at 70-80°C for 7 to 12 hours. This range is precise on purpose: it's the sweet spot where the active compounds release into solution without breaking down. The result is a finished product with a measurably higher concentration of working ingredients than fast-extracted alternatives.",
+      "Every batch is tested. Every herb is sourced from verified suppliers. And because the extraction yields a stable, water-soluble liquid, no chemical stabilizers are needed downstream."
+    ],
+    "steps": [
+      { "n": 1, "title": "Source",  "body": "Verified herbs from controlled suppliers" },
+      { "n": 2, "title": "Extract", "body": "7-12 hours at 70-80°C, low and slow" },
+      { "n": 3, "title": "Bottle",  "body": "No preservatives added — GSE alone preserves naturally" }
+    ]
+  },
+
+  "performance": {
+    "id": "performance",
+    "eyebrow": "Care performance",
+    "headline": "High performance across every essential care area.",
+    "subheadline": "Designed for balanced, safe, and effective daily care.",
+    "axes": [
+      { "label": "Bad breath care", "value": 9 },
+      { "label": "Tartar care",     "value": 9 },
+      { "label": "Gum health",      "value": 9 },
+      { "label": "Oral care",       "value": 8 },
+      { "label": "Safety",          "value": 10 }
+    ],
+    "freeFromBadges": [
+      "No artificial fragrance",
+      "No harsh chemicals",
+      "No preservatives",
+      "Ethanol-free",
+      "Alcohol-free"
+    ]
+  },
+
+  "trust": {
+    "id": "trust",
+    "eyebrow": "By the numbers",
+    "headline": "Proven where it matters.",
+    "subheadline": "Three years of clinical use. Tens of thousands of satisfied animals. Zero claims filed.",
+    "stats": [
+      {
+        "value": "2,416",
+        "label": "Instagram reviewers",
+        "context": "Large-scale evaluation in October 2023. Overwhelmingly positive feedback on halitosis effect and palatability."
+      },
+      {
+        "value": "500-1,000",
+        "label": "Bottles per month overseas",
+        "context": "Steady, repeat-driven sales across the US, Canada, Japan, Taiwan, Thailand, China, and the UAE."
+      },
+      {
+        "value": "~50,000",
+        "label": "GCC animals planned",
+        "context": "Long-term supply plans established for racing camels and horses across the Gulf region."
+      },
+      {
+        "value": "May 2023",
+        "label": "On market since",
+        "context": "Continuous availability with zero product claims, recalls, or safety incidents."
+      },
+      {
+        "value": "0",
+        "label": "Product claims filed",
+        "context": "A perfect record across pet, equine, and camel applications since launch."
+      }
+    ]
+  },
+
+  "globalPresence": {
+    "id": "global-presence",
+    "eyebrow": "International track record",
+    "headline": "From Seoul to seven countries across three continents.",
+    "subheadline": "Built on Instagram communities, founder partnerships, and direct industry supply — proof that the product travels well before formal distribution arrives.",
+    "groups": [
+      {
+        "type": "retail",
+        "title": "Companion pet markets",
+        "description": "Through Instagram group orders and the founder's professional network, Chika Chika Cool has reached pet owners across:",
+        "channelLabel": "Channel: Instagram communities & founder relationships",
+        "product": "100ml — Companion pets",
+        "countries": [
+          { "name": "United States", "region": "Georgia" },
+          { "name": "Canada",        "region": null },
+          { "name": "Japan",         "region": null },
+          { "name": "Taiwan",        "region": null },
+          { "name": "Thailand",      "region": null },
+          { "name": "China",         "region": null }
+        ]
+      },
+      {
+        "type": "performance",
+        "title": "Performance animal supply",
+        "description": "Direct B2B supply for high-value working animals:",
+        "channelLabel": "Channel: Direct industry partnership",
+        "product": "1L — Performance animals",
+        "countries": [
+          { "name": "United Arab Emirates", "region": "Racing-camel oral care" }
+        ]
+      }
+    ],
+    "footnote": "These early shipments laid the groundwork for our current expansion into structured global distribution. Distributor and veterinary partnership inquiries welcome — see the Contact section."
+  },
+
+  "howToUse": {
+    "id": "how-to-use",
+    "eyebrow": "Application",
+    "headline": "Stress-free application in four steps.",
+    "steps": [
+      {
+        "n": 1,
+        "title": "Familiarize",
+        "body": "Allow your animal to sniff the nozzle to get comfortable with the herbal scent before any application. For larger animals, introduce the bottle gradually during routine handling sessions.",
+        "image": { "src": "/assets/howto-1-familiarize.jpg", "alt": "Animal sniffing the bottle" }
+      },
+      {
+        "n": 2,
+        "title": "Diluted introduction",
+        "body": "Add 5-10 sprays per 100ml of drinking water for the first 1-2 weeks. This builds taste familiarity and delivers preventive benefits with zero stress. Refresh daily.",
+        "image": { "src": "/assets/howto-2-water.jpg", "alt": "Mixing into drinking water" }
+      },
+      {
+        "n": 3,
+        "title": "Direct application",
+        "body": "Once your animal is comfortable, apply 3 or more sprays evenly across the teeth, gums, and oral cavity. No rinsing required — the formula is safe to swallow.",
+        "image": { "src": "/assets/howto-3-spray.jpg", "alt": "Direct spray application" }
+      },
+      {
+        "n": 4,
+        "title": "For sensitive animals",
+        "body": "If your animal continues to resist direct spraying, simply continue mixing it into drinking water indefinitely — the benefits are equivalent. Some animals never accept direct spraying, and that's okay.",
+        "image": { "src": "/assets/howto-4-sensitive.jpg", "alt": "Owner with calm pet" }
+      }
+    ]
+  },
+
+  "useCases": {
+    "id": "use-cases",
+    "eyebrow": "Built for every animal",
+    "headline": "One formula, three worlds.",
+    "tabs": [
+      {
+        "key": "pets",
+        "label": "Companion pets",
+        "headline": "Dogs & cats",
+        "body": [
+          "Bad breath that won't go away. Plaque buildup despite weekly brushing. Senior pets with painful gums. The reality is: most pets resist brushing, and most owners run out of patience long before plaque becomes tartar.",
+          "Chika Chika Cool eliminates the brushing battle. Two weeks of daily use — whether sprayed directly or mixed into water — typically delivers visibly fresher breath, softer plaque, and less gum redness. No struggle, no muzzle, no stress."
+        ],
+        "recommendation": "Recommended for: dogs and cats of all sizes, senior pets, rescue animals, multi-pet households.",
+        "image": { "src": "/assets/usecase-pets.jpg", "alt": "Happy dog with owner" }
+      },
+      {
+        "key": "equine",
+        "label": "Performance horses",
+        "headline": "Thoroughbreds & working equines",
+        "body": [
+          "The bit, the bridle, the long training sessions — the equipment a performance horse wears every day takes a toll on its mouth. Small abrasions become inflammation. Inflammation affects appetite. A horse that can't eat properly can't perform properly.",
+          "Chika Chika Cool was reformulated for working equines specifically. The clove eugenol provides immediate analgesic relief from bit-related pain. The slippery elm bark protects damaged mucosa. The licorice resolves the inflammation rather than masking it. And because it's added to drinking water, it works even on horses that don't tolerate handling around the muzzle."
+        ],
+        "recommendation": "Recommended for: thoroughbreds, endurance horses, show horses, working equines, breeding stock.",
+        "image": { "src": "/assets/usecase-equine.jpg", "alt": "Performance horse being handled" }
+      },
+      {
+        "key": "camel",
+        "label": "Racing camels",
+        "headline": "High-value racing & breeding camels",
+        "body": [
+          "Racing camels represent some of the highest-value animals in modern competition. They're trained from a young age, raced through their prime, and bred for generations. Every detail of their care matters — and oral health has long been one of the underserved details.",
+          "Chika Chika Cool is currently being introduced into long-term supply programs across the GCC region, with planned coverage of approximately 50,000 racing camels and horses. The water-soluble formula makes it practical at scale: a racing operation managing 200 animals can administer it through standard drinking troughs, with no individual handling required."
+        ],
+        "highlight": "All ingredients are confirmed as zero-doping. The product can be used continuously through training, qualification, and race-day without any risk of failed pre-race screening.",
+        "recommendation": "Recommended for: racing camels, endurance camels, dairy and breeding camels, working camels in arid environments.",
+        "image": { "src": "/assets/usecase-camel.jpg", "alt": "Racing camel in motion" }
+      }
+    ]
+  },
+
+  "faq": {
+    "id": "faq",
+    "eyebrow": "FAQ",
+    "headline": "Questions, answered.",
+    "items": [
+      {
+        "q": "Is Chika Chika Cool safe to swallow?",
+        "a": "Yes. The formula is 100% natural, contains no chemical preservatives, and is intentionally designed to be added to drinking water. There is no rinsing required after direct application."
+      },
+      {
+        "q": "How long until I see results?",
+        "a": "Most pet owners report visibly fresher breath within 3-7 days of daily use. Reduction in plaque and gum inflammation typically becomes visible within 2-3 weeks. For performance animals, the analgesic effect on bit-related discomfort is often immediate."
+      },
+      {
+        "q": "Will this affect a racing animal's pre-race screening?",
+        "a": "No. Chika Chika Cool contains no banned substances. All seven herbal ingredients and the grapefruit seed extract preservative are confirmed as zero-doping. The product is safe for daily use through training and competition."
+      },
+      {
+        "q": "What's the difference between the 100ml and 1L bottles?",
+        "a": "Same formula, different sizes. The 100ml is sized for one or two companion pets and lasts approximately 2-3 months of daily use. The 1L is sized for stable and racing operations and is designed to be added to large drinking troughs across multiple animals."
+      },
+      {
+        "q": "How do I get my dog or cat to accept the spray?",
+        "a": "Start by mixing 5-10 sprays into 100ml of drinking water for the first 1-2 weeks. Once they're used to the herbal taste, transition gradually to direct application. Some pets never fully accept direct spraying — and that's fine. Continued use through drinking water delivers the same benefits."
+      },
+      {
+        "q": "Can puppies, kittens, or pregnant animals use it?",
+        "a": "Yes, the formula is gentle enough for animals of all life stages. As with any new product, we recommend introducing it gradually and consulting your veterinarian if your animal has specific health conditions."
+      },
+      {
+        "q": "Is it safe for cats specifically?",
+        "a": "Yes. Many natural pet products contain ingredients (like xylitol, certain essential oils, or alcohol) that are toxic to cats. Chika Chika Cool contains none of these. The herbal formula is safe for feline use."
+      },
+      {
+        "q": "How is the product shipped internationally?",
+        "a": "We ship globally for both retail and bulk B2B orders. International orders are typically processed within 3-5 business days from our Seoul facility. Contact us for shipping costs to your region and for distributor pricing."
+      },
+      {
+        "q": "Can I become a distributor in my country?",
+        "a": "Yes. We're actively expanding our global distribution network, with a particular focus on the GCC, North America, and Southeast Asia. Bulk pricing and exclusive territory agreements are available. Use the contact form below to start the conversation."
+      },
+      {
+        "q": "What's the shelf life?",
+        "a": "Two years from manufacture date when stored at room temperature in the original sealed bottle. Once opened, use within 12 months for best efficacy. The grapefruit seed extract acts as a natural preservative throughout the shelf life."
+      }
+    ]
+  },
+
+  "contact": {
+    "id": "contact",
+    "eyebrow": "Get in touch",
+    "headline": "Start a healthier oral care routine today.",
+    "subheadline": "Whether you're a pet owner, a stable operator, or a global distributor — we're ready to help.",
+    "channels": [
+      {
+        "type": "retail",
+        "title": "Retail & individual inquiries",
+        "description": "For individual purchases, product questions, or veterinary recommendations:",
+        "items": [
+          { "label": "Naver Smart Store (Korea)", "value": "smartstore.naver.com/mimipet_", "href": "https://smartstore.naver.com/mimipet_/products/8703037786" },
+          { "label": "Instagram",                  "value": "@chikachikacool",            "href": "https://www.instagram.com/chikachikacool/" },
+          { "label": "Email",                      "value": "contact@mimipet.co.kr",      "href": "mailto:contact@mimipet.co.kr" }
+        ]
+      },
+      {
+        "type": "b2b",
+        "title": "B2B, bulk & distribution inquiries",
+        "description": "For bulk orders, exclusive territory agreements, racing-program supply, and veterinary distribution:",
+        "items": [
+          { "label": "Email",   "value": "sales@mimipet.co.kr",        "href": "mailto:sales@mimipet.co.kr" },
+          { "label": "Phone",   "value": "+82-10-4043-9775",           "href": "tel:+821040439775" },
+          { "label": "Address", "value": "65-1, Sadang-ro, Dongjak-gu, Seoul, Republic of Korea", "href": null },
+          { "label": "Company", "value": "MIMIPET Co., Ltd.",           "href": null }
+        ]
+      }
+    ],
+    "form": {
+      "title": "Send us a message",
+      "fields": [
+        { "name": "name",        "label": "Name",                   "type": "text",     "required": true },
+        { "name": "company",     "label": "Company / organization", "type": "text",     "required": false },
+        { "name": "country",     "label": "Country",                "type": "text",     "required": true },
+        { "name": "inquiryType", "label": "Inquiry type",           "type": "select",   "required": true,
+          "options": ["Retail purchase", "Bulk order", "Distribution", "Veterinary", "Press"] },
+        { "name": "animalType",  "label": "Animal type",            "type": "select",   "required": false,
+          "options": ["Companion pet", "Equine", "Camel", "Other"] },
+        { "name": "message",     "label": "Message",                "type": "textarea", "required": true }
+      ],
+      "submitLabel": "Send inquiry",
+      "footnote": "Replies typically within one business day, in English, Korean, or Arabic."
+    }
+  },
+
+  "footer": {
+    "company": "MIMIPET Co., Ltd.",
+    "address": "65-1, Sadang-ro, Dongjak-gu, Seoul, Republic of Korea",
+    "copyright": "© 2026 Mimipet Korea. All rights reserved.",
+    "social": [
+      { "platform": "instagram", "label": "Instagram", "href": "https://www.instagram.com/chikachikacool/" }
+    ],
+    "links": [
+      { "label": "Privacy policy", "href": "/privacy" },
+      { "label": "Terms of service", "href": "/terms" }
+    ]
+  }
+}
